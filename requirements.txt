@@ -1,0 +1,12 @@
+# Telegram: user client (рассылка) + bot (интерфейс)
+telethon>=1.36
+python-telegram-bot>=20.0
+
+# Data & validation
+sqlalchemy>=2.0
+aiosqlite>=0.20
+pydantic>=2.7
+pydantic-settings>=2.6
+
+# Utils
+python-dotenv>=1.0
